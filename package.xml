@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Optimiseweb_MobileDetect</name>
+    <version>0.1.1</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net</summary>
+    <description>MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web's MobileDetect Magento extension allows using the mobile detection functions from within Magento.</description>
+    <notes>First stable release</notes>
+    <authors><author><name>Kathir Vel</name><user>OptimiseWeb</user><email>info@optimiseweb.co.uk</email></author></authors>
+    <date>2013-03-19</date>
+    <time>17:26:36</time>
+    <contents><target name="magecommunity"><dir name="Optimiseweb"><dir name="MobileDetect"><dir name="Helper"><file name="Data.php" hash="a33bf9dfe50664b185955f69cf4c1bfc"/></dir><dir name="Library"><file name="Mobile_Detect.php" hash="95fe6f59af9695f7a7852e87ac77aa36"/></dir><dir name="etc"><file name="config.xml" hash="a925e330385b18b0aed8a140fa1a12cb"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Optimiseweb_MobileDetect.xml" hash="2f8f1824e5170c5f0af46bff8eaa831c"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
