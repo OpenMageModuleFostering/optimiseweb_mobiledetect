@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>Optimiseweb_MobileDetect</name>
-    <version>0.1.4</version>
+    <version>0.1.6</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
     <channel>community</channel>
     <extends/>
     <summary>Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net</summary>
     <description>MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web's MobileDetect Magento extension allows using the mobile detection functions from within Magento.</description>
-    <notes>Updated to Mobile_Detect 2.6.0</notes>
+    <notes>Updated to Mobile Detect 2.7.1</notes>
     <authors><author><name>Kathir Vel</name><user>OptimiseWeb</user><email>info@optimiseweb.co.uk</email></author></authors>
-    <date>2013-05-11</date>
-    <time>01:25:13</time>
-    <contents><target name="magecommunity"><dir name="Optimiseweb"><dir name="MobileDetect"><dir name="Helper"><file name="Data.php" hash="0e6c5e046ffdee7d46cf77ff744b6dcf"/></dir><dir name="Library"><file name="Mobile_Detect.php" hash="dfbccd9e06f3d58545c113bf18a0762a"/></dir><dir name="etc"><file name="config.xml" hash="9e6c867e042c8fa75fd9b7815d0ccb83"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Optimiseweb_MobileDetect.xml" hash="b199a92a751991216ed19e1cf596a159"/></dir></target></contents>
+    <date>2013-10-07</date>
+    <time>22:14:39</time>
+    <contents><target name="magecommunity"><dir name="Optimiseweb"><dir name="MobileDetect"><dir name="Helper"><file name="Data.php" hash="0e6c5e046ffdee7d46cf77ff744b6dcf"/></dir><dir name="Library"><file name="Mobile_Detect.php" hash="222ed9d9291dd3301cc2f928e4c01b20"/></dir><dir name="etc"><file name="config.xml" hash="90f1ad6482efc65788dca2b12ab5ce1f"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Optimiseweb_MobileDetect.xml" hash="b199a92a751991216ed19e1cf596a159"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
