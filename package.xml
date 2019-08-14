@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <package>
     <name>Optimiseweb_MobileDetect</name>
-    <version>0.2.0</version>
+    <version>0.2.1</version>
     <stability>stable</stability>
     <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
     <channel>community</channel>
     <extends/>
     <summary>Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net</summary>
     <description>MobileDetect.net is a lightweight PHP class for detecting mobile devices. Optimise Web's MobileDetect Magento extension allows using the mobile detection functions from within Magento.</description>
-    <notes>Updated to Mobile Detect 2.8.3</notes>
+    <notes>Updated to Mobile Detect 2.8.11</notes>
     <authors><author><name>Kathir Vel</name><user>OptimiseWeb</user><email>info@optimiseweb.co.uk</email></author></authors>
-    <date>2014-10-16</date>
-    <time>17:31:24</time>
-    <contents><target name="magecommunity"><dir name="Optimiseweb"><dir name="MobileDetect"><dir name="Helper"><file name="Data.php" hash="50cb969041d2176565d2861e7f47f65a"/></dir><dir name="Library"><file name="Mobile_Detect.php" hash="d74f088d08f41742deccac02cfea0e2a"/></dir><dir name="etc"><file name="config.xml" hash="a54bf98e92c590fb1474ff51ae2cfb31"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Optimiseweb_MobileDetect.xml" hash="f12fd3dac1d765e72b8ed85f8608e88f"/></dir></target><target name="magelocale"><dir name="en_US"><file name="Optimiseweb_MobileDetect.csv" hash="d41d8cd98f00b204e9800998ecf8427e"/></dir></target></contents>
+    <date>2014-12-15</date>
+    <time>12:37:13</time>
+    <contents><target name="magecommunity"><dir name="Optimiseweb"><dir name="MobileDetect"><dir name="Helper"><file name="Data.php" hash="50cb969041d2176565d2861e7f47f65a"/></dir><dir name="Library"><file name="Mobile_Detect.php" hash="a55f53c26a2ebf6388849547e049dcb6"/></dir><dir name="doc"><file name="Readme.html" hash="4232f1010ff9fd21cc2075c8a4004e58"/></dir><dir name="etc"><file name="config.xml" hash="b0cd8fd68c6446c3e1701ebaf0e6ae5f"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Optimiseweb_MobileDetect.xml" hash="f12fd3dac1d765e72b8ed85f8608e88f"/></dir></target><target name="magelocale"><dir name="en_US"><file name="Optimiseweb_MobileDetect.csv" hash="d41d8cd98f00b204e9800998ecf8427e"/></dir></target></contents>
     <compatible/>
     <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
 </package>
