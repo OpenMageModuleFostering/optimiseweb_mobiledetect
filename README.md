@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net

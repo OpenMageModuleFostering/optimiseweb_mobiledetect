@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Optimiseweb_MobileDetect",
+    "name": "openmage-module-fostering\/optimiseweb_mobiledetect",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net",
     "authors": [
