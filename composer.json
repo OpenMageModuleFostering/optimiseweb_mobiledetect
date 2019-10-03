@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Optimiseweb_MobileDetect",
+    "name": "OpenMageModuleFostering\/Optimiseweb_MobileDetect",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Optimise Web's Magento helper to enable the usage of all functions provided by MobileDetect.net",
     "authors": [
-    {
-        "name": "Kathir Vel",
-        "email": "info@optimiseweb.co.uk"
-    }
-],
+        {
+            "name": "Kathir Vel",
+            "email": "info@optimiseweb.co.uk"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
